@@ -2,13 +2,13 @@
 
 A fast-paced mobile racing application built in Unity, featuring real-time AI competition, custom gesture detection, and native hardware camera integration.
 
-## 🛠️ Core Features & Engineering
+## Core Features & Engineering
 
 * **Two-Level Race System vs AI:** Features linear track progression across two distinct maps where the player competes against a pathfinding AI racer.
 * **Economic & Buff Systems:** Collectible coin triggers handle score updates, and dynamic item boxes reward players with active power-ups.
 * **Native Camera Profile Integration:** Uses mobile hardware permissions to capture a real-time photo via the device camera, dynamically converting the texture data into a runtime player profile avatar.
 
-## 🎮 Mobile Input Interaction Architecture
+## Mobile Input Interaction Architecture
 
 The game utilizes structured touch input polling and mobile hardware API integration to deliver responsive physics handling:
 
